@@ -1,7 +1,13 @@
-body {
-    background-color: blue;
+#navigation {
+    background-color: black;
 }
 
-p {
+#jumbo {
+    background-color: black;
+    color: cyan;
     text-align: center;
+}
+
+#cards  {
+    background-color: black;
 }
