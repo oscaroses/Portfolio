@@ -10,4 +10,10 @@
 
 #cards  {
     background-color: black;
+    text-align: center;
+}
+
+.card {
+    background-color: black;
+    color: white;
 }
