@@ -17,3 +17,25 @@
     background-color: black;
     color: white;
 }
+
+body {
+    background-color: black;
+  }
+
+#contact {
+    text-align: center;
+    color: #007bff;
+}
+
+h5  {
+    text-align: center;
+}
+
+p   {
+    text-align: center;
+}
+
+#Port   {
+    text-align: center;
+    color: #007bff;
+}
