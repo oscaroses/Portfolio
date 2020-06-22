@@ -37,9 +37,19 @@ p   {
 
 #Port   {
     text-align: center;
-    color: #007bff;
+    color: white;
 }
 
 #odoses {
     color: white;
+}
+
+#foot   {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
 }
