@@ -63,3 +63,7 @@ p {
 label {
   color: #007bff;
 }
+
+img {
+    box-shadow: 5px 5px 5px rgba(0, 60, 115, 0.6)
+}
