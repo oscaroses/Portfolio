@@ -1,4 +1,4 @@
-# week-2-homework
+# Portfolio
 This is an early webpage for myself
 The index.html is the main page with information about myself.
 The navigation bar at the top will take you to other parts of my project.
